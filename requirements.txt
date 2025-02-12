@@ -1,0 +1,4 @@
+narwhals==1.25.2
+packaging==24.2
+pillow==11.1.0
+plotly==6.0.0
